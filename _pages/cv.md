@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: cv
 nav: true
@@ -19,8 +19,8 @@ toc:
   <div class="cv mb-5">
     
     <a class="anchor" id="education"></a>
-    <div class="card mt-3 p-3">
-      <h3 class="card-title font-weight-bold text-uppercase">Education</h3>
+    <div class="card mt-3 p-3 shadow-sm border">
+      <h3 class="card-title font-weight-bold text-uppercase text-secondary">Education</h3>
       <hr class="mt-0">
       <ul class="card-text font-weight-light list-unstyled">
         <li class="mb-4">
@@ -61,8 +61,8 @@ toc:
     </div>
 
     <a class="anchor" id="experience"></a>
-    <div class="card mt-4 p-3">
-      <h3 class="card-title font-weight-bold text-uppercase">Experience</h3>
+    <div class="card mt-4 p-3 shadow-sm border">
+      <h3 class="card-title font-weight-bold text-uppercase text-secondary">Experience</h3>
       <hr class="mt-0">
       <ul class="card-text font-weight-light list-unstyled">
         <li class="mb-4">
@@ -132,15 +132,15 @@ toc:
       </ul>
     </div>
 
-    <a class="anchor" id="blogs"></a>
-    <div class="card mt-4 p-3">
-      <h3 class="card-title font-weight-bold text-uppercase">Blogs & Thought Leadership</h3>
+    <a class="anchor" id="thought-leadership"></a>
+    <div class="card mt-4 p-3 shadow-sm border">
+      <h3 class="card-title font-weight-bold text-uppercase text-secondary">Thought Leadership</h3>
       <hr class="mt-0">
       <h6 class="m-0 font-weight-bold text-primary">Technical Deep-Dives & Architecture Guides</h6>
       <h6 class="text-muted font-italic mb-2" style="font-size: 0.85rem;">Google Cloud Blog & Systems Engineering • 2025</h6>
       <p class="font-weight-light mb-3" style="font-size: 0.95rem;">
-        I regularly write in-depth architectural blueprints breaking down complex multimodal streaming and multi-agent patterns. 
-        👉 <b>Explore all my engineering guides on the main <a href="{{ '/blog/' | relative_url }}">Blog</a> tab.</b>
+        I regularly author comprehensive technical architectural guides mapping complex streaming configurations and distributed, multi-agent mesh networks. 
+        👉 <b>Read all technical publications directly on my <a href="{{ '/blog/' | relative_url }}">Blog</a> hub.</b>
       </p>
       <ul class="pl-4 font-weight-light" style="font-size: 0.95rem; line-height: 1.45rem;">
         <li class="mb-2">How to build a real-time voice agent with Gemini and Google ADK (Aug 2025) - Codified architectural patterns for multi-modal streaming.</li>
@@ -151,9 +151,9 @@ toc:
       </ul>
     </div>
 
-    <a class="anchor" id="publications-patents"></a>
-    <div class="card mt-4 p-3">
-      <h3 class="card-title font-weight-bold text-uppercase">Publications & Patents</h3>
+    <a class="anchor" id="patents-publications"></a>
+    <div class="card mt-4 p-3 shadow-sm border">
+      <h3 class="card-title font-weight-bold text-uppercase text-secondary">Patents & Publications</h3>
       <hr class="mt-0">
       <h6 class="m-0 font-weight-bold text-primary">Peer-Reviewed Research Papers & US Patents</h6>
       <h6 class="text-muted font-italic mb-2" style="font-size: 0.85rem;">Intellectual Property Portfolio • 2011 - Present</h6>
@@ -161,31 +161,31 @@ toc:
         I have authored 10+ peer-reviewed research papers (across Interspeech, EMNLP, IEEE TPEL, and ECAI) and filed 10+ US Patents/Applications covering conversational AI models, multi-agent frameworks, and predictive diagnostics.
       </p>
       <ul class="mt-3 pl-4 font-weight-light" style="font-size: 0.95rem;">
-        <li>👉 <b>Click here to view my full interactive database on the <a href="{{ '/publications/' | relative_url }}">Publications & Patents</a> tab</b> to review raw papers, publisher links, and Google Patent filings.</li>
+        <li>👉 <b>Click here to view my full cross-linked database on the <a href="{{ '/publications/' | relative_url }}">Publications & Patents</a> tab</b> to review raw papers, publisher links, and Google Patent filings.</li>
       </ul>
     </div>
 
     <a class="anchor" id="certifications"></a>
-    <div class="card mt-4 p-3">
-      <h3 class="card-title font-weight-bold text-uppercase">Certifications</h3>
+    <div class="card mt-4 p-3 shadow-sm border">
+      <h3 class="card-title font-weight-bold text-uppercase text-secondary">Certifications</h3>
       <hr class="mt-0">
       <h6 class="m-0 font-weight-bold text-primary">Professional & Cloud Engineering Credentials</h6>
       <h6 class="text-muted font-italic mb-2" style="font-size: 0.85rem;">Google Cloud & General Electric Validation</h6>
       <p class="font-weight-light mb-3" style="font-size: 0.95rem;">
-        I hold professional credentials verifying expertise across production-grade GenAI systems infrastructure, data analytics pipelines, and advanced machine learning modeling tracks. 
-        👉 <b>Review all interactive verification links on the <a href="{{ '/certifications/' | relative_url }}">Certifications</a> tab.</b>
+        I hold expert credentials verifying infrastructure execution, data pipelines optimization, and machine learning deployments at enterprise scale. 
+        👉 <b>Review all verification entries on the interactive <a href="{{ '/certifications/' | relative_url }}">Certifications</a> tab.</b>
       </p>
       <ul class="pl-4 font-weight-light" style="font-size: 0.95rem; line-height: 1.45rem;">
-        <li class="mb-1"><b>Google Cloud Certified Professional Cloud Architect</b> — Production infrastructure design.</li>
-        <li class="mb-1"><b>Google Cloud Certified Professional Data Engineer</b> — Large-scale data engineering.</li>
-        <li class="mb-1"><b>Google Professional Machine Learning Engineer</b> — Enterprise ML modeling layouts.</li>
-        <li class="mb-1"><b>GE Analytics Certification & Research Award</b> — Business-critical industrial ML analytics.</li>
+        <li class="mb-1"><b>Google Cloud Certified Professional Cloud Architect</b></li>
+        <li class="mb-1"><b>Google Cloud Certified Professional Data Engineer</b></li>
+        <li class="mb-1"><b>Google Professional Machine Learning Engineer</b></li>
+        <li class="mb-1"><b>GE Analytics Certification & Research Award</b></li>
       </ul>
     </div>
 
     <a class="anchor" id="honors-awards"></a>
-    <div class="card mt-4 p-3">
-      <h3 class="card-title font-weight-bold text-uppercase">Honors & Awards</h3>
+    <div class="card mt-4 p-3 shadow-sm border">
+      <h3 class="card-title font-weight-bold text-uppercase text-secondary">Honors & Awards</h3>
       <hr class="mt-0">
       <ul class="card-text font-weight-light list-unstyled">
         {% for item in site.data.cv.sections.Awards %}
@@ -202,51 +202,50 @@ toc:
     </div>
 
     <a class="anchor" id="skills"></a>
-    <div class="card mt-4 p-3">
-      <h3 class="card-title font-weight-bold text-uppercase">Skills</h3>
+    <div class="card mt-4 p-3 shadow-sm border">
+      <h3 class="card-title font-weight-bold text-uppercase text-secondary">Skills</h3>
       <hr class="mt-0">
       
-      <div class="skill-category mb-3">
-        <h5 class="font-weight-bold text-primary mb-2" style="font-size: 1rem;">AI/ML & Generative AI</h5>
-        <div class="d-flex flex-wrap style="gap: 0.4rem;">
-          <span class="badge badge-pill badge-primary p-2 m-1" style="font-size: 0.85rem; font-weight: normal;">Large Language Models (LLMs)</span>
-          <span class="badge badge-pill badge-primary p-2 m-1" style="font-size: 0.85rem; font-weight: normal;">Agentic Frameworks (Google ADK)</span>
-          <span class="badge badge-pill badge-primary p-2 m-1" style="font-size: 0.85rem; font-weight: normal;">Vertex AI</span>
-          <span class="badge badge-pill badge-primary p-2 m-1" style="font-size: 0.85rem; font-weight: normal;">Cloud Speech-to-Text (Chirp)</span>
-          <span class="badge badge-pill badge-primary p-2 m-1" style="font-size: 0.85rem; font-weight: normal;">Retrieval-Augmented Generation (RAG)</span>
-          <span class="badge badge-pill badge-primary p-2 m-1" style="font-size: 0.85rem; font-weight: normal;">Multimodal In-Context Learning</span>
-          <span class="badge badge-pill badge-primary p-2 m-1" style="font-size: 0.85rem; font-weight: normal;">NLP</span>
-          <span class="badge badge-pill badge-primary p-2 m-1" style="font-size: 0.85rem; font-weight: normal;">Deep Learning</span>
+      <div class="mb-3">
+        <h5 class="font-weight-bold text-primary mb-2" style="font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.5px;">AI/ML & Generative AI</h5>
+        <div class="d-flex flex-wrap" style="gap: 6px;">
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Large Language Models (LLMs)</span>
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Agentic Frameworks (Google ADK)</span>
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Vertex AI</span>
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Cloud Speech-to-Text (Chirp)</span>
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Retrieval-Augmented Generation (RAG)</span>
+          <span class="badge badge-pill badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Multimodal In-Context Learning</span>
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">NLP</span>
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Deep Learning</span>
         </div>
       </div>
 
-      <div class="skill-category mb-3 mt-2">
-        <h5 class="font-weight-bold text-primary mb-2" style="font-size: 1rem;">Cloud & Infrastructure</h5>
-        <div class="d-flex flex-wrap style="gap: 0.4rem;">
-          <span class="badge badge-pill badge-info p-2 m-1" style="font-size: 0.85rem; font-weight: normal; color:#fff;">Google Cloud Platform (GCP)</span>
-          <span class="badge badge-pill badge-info p-2 m-1" style="font-size: 0.85rem; font-weight: normal; color:#fff;">Cloud Run</span>
-          <span class="badge badge-pill badge-info p-2 m-1" style="font-size: 0.85rem; font-weight: normal; color:#fff;">Cloud Firestore</span>
-          <span class="badge badge-pill badge-info p-2 m-1" style="font-size: 0.85rem; font-weight: normal; color:#fff;">Google Cloud Storage</span>
-          <span class="badge badge-pill badge-info p-2 m-1" style="font-size: 0.85rem; font-weight: normal; color:#fff;">Secret Manager</span>
-          <span class="badge badge-pill badge-info p-2 m-1" style="font-size: 0.85rem; font-weight: normal; color:#fff;">Serverless Architecture</span>
-          <span class="badge badge-pill badge-info p-2 m-1" style="font-size: 0.85rem; font-weight: normal; color:#fff;">Microservices</span>
+      <div class="mb-3 mt-3">
+        <h5 class="font-weight-bold text-primary mb-2" style="font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.5px;">Cloud & Infrastructure</h5>
+        <div class="d-flex flex-wrap" style="gap: 6px;">
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Google Cloud Platform (GCP)</span>
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Cloud Run</span>
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Cloud Firestore</span>
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Google Cloud Storage</span>
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Secret Manager</span>
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Serverless Architecture</span>
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Microservices</span>
         </div>
       </div>
 
-      <div class="skill-category mb-2 mt-2">
-        <h5 class="font-weight-bold text-primary mb-2" style="font-size: 1rem;">Languages & Frameworks</h5>
-        <div class="d-flex flex-wrap style="gap: 0.4rem;">
-          <span class="badge badge-pill badge-secondary p-2 m-1" style="font-size: 0.85rem; font-weight: normal;">Python</span>
-          <span class="badge badge-pill badge-secondary p-2 m-1" style="font-size: 0.85rem; font-weight: normal;">Flask</span>
-          <span class="badge badge-pill badge-secondary p-2 m-1" style="font-size: 0.85rem; font-weight: normal;">Streamlit</span>
-          <span class="badge badge-pill badge-secondary p-2 m-1" style="font-size: 0.85rem; font-weight: normal;">FastAPI</span>
-          <span class="badge badge-pill badge-secondary p-2 m-1" style="font-size: 0.85rem; font-weight: normal;">Docker</span>
-          <span class="badge badge-pill badge-secondary p-2 m-1" style="font-size: 0.85rem; font-weight: normal;">Terraform</span>
+      <div class="mb-2 mt-3">
+        <h5 class="font-weight-bold text-primary mb-2" style="font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.5px;">Languages & Frameworks</h5>
+        <div class="d-flex flex-wrap" style="gap: 6px;">
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Python</span>
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Flask</span>
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Streamlit</span>
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">FastAPI</span>
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Docker</span>
+          <span class="badge badge-light border text-dark p-2" style="font-size: 0.85rem; font-weight: 400; border-radius: 4px;">Terraform</span>
         </div>
       </div>
 
     </div>
 
   </div>
-
 </div>
