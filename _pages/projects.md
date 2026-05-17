@@ -4,7 +4,7 @@ permalink: /projects/
 title: projects
 description: Open-source implementations, multi-agent frameworks, and technical codebases.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <div class="apps">
