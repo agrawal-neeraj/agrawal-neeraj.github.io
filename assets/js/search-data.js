@@ -99,12 +99,7 @@ ninja.data = [{
             window.open("https://medium.com/google-cloud/an-ai-travel-agent-in-action-a-detailed-look-at-how-two-agents-plan-a-trip-86a1735368e1", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{
+      },{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
