@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://agrawal.neeraj.github.io/sitemap.xml
+Sitemap: https://agrawal-neeraj.github.io/sitemap.xml
