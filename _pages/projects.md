@@ -51,7 +51,7 @@ nav_order: 2
           <a href="https://github.com/MagnIeeT/leadGenerationAgentADK" target="_blank" class="btn btn-sm btn-outline-primary" rel="noopener noreferrer">
             <i class="fa-brands fa-github"></i> Source Code
           </a>
-          <a href="/blog/" class="btn btn-sm btn-outline-secondary ml-1">
+          <a href="/blog/2025/deep-research-agent/" class="btn btn-sm btn-outline-secondary ml-1">
             <i class="fa-solid fa-newspaper"></i> Read Blog
           </a>
         </div>
@@ -75,7 +75,7 @@ nav_order: 2
           <a href="https://github.com/MagnIeeT/adk-a2a-integration" target="_blank" class="btn btn-sm btn-outline-primary" rel="noopener noreferrer">
             <i class="fa-brands fa-github"></i> Source Code
           </a>
-          <a href="/blog/" class="btn btn-sm btn-outline-secondary ml-1">
+          <a href="/blog/2025/mcp-to-a2a/" class="btn btn-sm btn-outline-secondary ml-1">
             <i class="fa-solid fa-newspaper"></i> Read Blog
           </a>
         </div>

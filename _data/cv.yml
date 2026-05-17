@@ -101,8 +101,9 @@ cv:
           - "Developed a prescriptive health and maintenance model for Traction Motor prognostics workflows."
           - "Developed a physical experimental test-bed consisting of three power inverters emulating UPS units connected in an IP ring bus architecture to validate system control algorithms."
 
-      - company: Google Cloud Blog & Systems Engineering
-        position: Thought Leadership & Technical Writing
+    Thought Leadership:
+      - institution: Google Cloud Blog & Systems Engineering
+        position: Author / Speaker
         location: Publication Outlets
         start_date: Jun 2025
         end_date: Aug 2025
@@ -113,8 +114,9 @@ cv:
           - "How to build a simple multi-agentic system using Google's ADK (Jul 2025) - Established scaling patterns replacing brittle monolithic LLMs with high-fidelity agent networks. <i>Read full deep-dive on my <a href='/blog/'>Blog</a> tab.</i>"
           - "Medium: An AI Travel Agent in Action (Jun 2025) - Demonstrated task orchestration and collaborative delegation boundaries across autonomous agent nodes."
 
-      - company: Intellectual Property & Research Layouts
-        position: Patents & Publications Hub
+    Patents & Publications Hub:
+      - institution: Intellectual Property & Research Layouts
+        position: Complete Track Record
         location: Global Portfolios
         start_date: 2011
         end_date: Present
