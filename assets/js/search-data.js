@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-certificates",
           title: "certificates",
           description: "Technical certifications, professional credentials, and advanced coursework.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/certificates/";
+          },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "post-how-to-build-a-real-time-voice-agent-with-gemini-and-google-adk",
         
