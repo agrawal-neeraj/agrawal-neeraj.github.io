@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "Curriculum Vitae detailing professional timeline, academic milestones, and engineering skills.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
@@ -32,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-certificates",
           title: "certificates",
-          description: "Technical certifications and professional credentials.",
+          description: "Technical certifications, professional credentials, and advanced coursework.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/certificates/";
@@ -43,13 +50,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
-          },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "post-how-to-build-a-real-time-voice-agent-with-gemini-and-google-adk",
         
