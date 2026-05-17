@@ -2,7 +2,6 @@
 layout: cv
 permalink: /cv/
 title: cv
-description: Curriculum Vitae detailing professional timeline, academic milestones, and engineering skills.
 nav: true
 nav_order: 3
 toc:

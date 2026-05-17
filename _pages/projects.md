@@ -10,7 +10,7 @@ nav_order: 2
 <div class="apps">
   <div class="row row-cols-1 row-cols-md-2 g-4">
     
-    <div class="col">
+  <div class="col">
       <div class="card h-100 hoverable">
         <div class="card-body">
           <h4 class="card-title font-weight-bold text-primary">GenMediaStudio</h4>
@@ -35,7 +35,7 @@ nav_order: 2
       </div>
     </div>
 
-    <div class="col">
+  <div class="col">
       <div class="card h-100 hoverable">
         <div class="card-body">
           <h4 class="card-title font-weight-bold text-primary">Lead Generation Agent (Google ADK)</h4>
@@ -52,14 +52,14 @@ nav_order: 2
           <a href="https://github.com/MagnIeeT/leadGenerationAgentADK" target="_blank" class="btn btn-sm btn-outline-primary" rel="noopener noreferrer">
             <i class="fa-brands fa-github"></i> Source Code
           </a>
-          <a href="{{ '/blog/2025/deep-research-agent/' | relative_url }}" class="btn btn-sm btn-outline-secondary ml-1">
+          <a href="https://cloud.google.com/blog/products/ai-machine-learning/build-a-deep-research-agent-with-google-adk/" target="_blank" class="btn btn-sm btn-outline-secondary ml-1" rel="noopener noreferrer">
             <i class="fa-solid fa-newspaper"></i> Read Blog
           </a>
         </div>
       </div>
     </div>
 
-    <div class="col">
+  <div class="col">
       <div class="card h-100 hoverable">
         <div class="card-body">
           <h4 class="card-title font-weight-bold text-primary">MCP to A2A Interoperability Layer</h4>
@@ -73,4 +73,15 @@ nav_order: 2
             <span class="badge badge-secondary" style="font-size: 0.75rem;">gRPC / API</span>
           </div>
           <hr class="my-2">
-          <a href="
+          <a href="https://github.com/MagnIeeT/adk-a2a-integration" target="_blank" class="btn btn-sm btn-outline-primary" rel="noopener noreferrer">
+            <i class="fa-brands fa-github"></i> Source Code
+          </a>
+          <a href="https://cloud.google.com/blog/products/ai-machine-learning/unlock-ai-agent-collaboration-convert-adk-agents-for-a2a" target="_blank" class="btn btn-sm btn-outline-secondary ml-1" rel="noopener noreferrer">
+            <i class="fa-solid fa-newspaper"></i> Read Blog
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
