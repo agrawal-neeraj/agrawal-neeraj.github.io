@@ -1,10 +1,10 @@
 cv:
   name: Neeraj Agrawal
-  label: Solution Architect - Gen AI
+  label: "Solution Architect - Gen AI"
   email: neeraj13788@gmail.com
-  location: Bangalore, India
+  location: "Bangalore, India"
   image: ""
-  summary: Demonstrate ability to inspire and mentor data scientists, as well as drive strategic long-term data science initiatives across the organisation.
+  summary: "Demonstrate ability to inspire and mentor data scientists, as well as drive strategic long-term data science initiatives across the organisation."
 
   social_networks:
     - network: LinkedIn
@@ -17,83 +17,83 @@ cv:
 
   sections:
     Education:
-      - institution: Indian Institute of Science (IISc)
-        location: Bangalore, India
-        area: Machine Learning
-        studyType: Ph.D
-        start_date: Jan 2022
-        end_date: Present
+      - institution: "Indian Institute of Science (IISc)"
+        location: "Bangalore, India"
+        area: "Machine Learning"
+        studyType: "Ph.D"
+        start_date: "Jan 2022"
+        end_date: "Present"
         score: "CGPA: 9.5/10"
 
-      - institution: Indian Institute of Science (IISc)
-        location: Bangalore, India
-        area: Electrical Engineering
-        studyType: M.E.
-        start_date: Aug 2011
-        end_date: July 2013
+      - institution: "Indian Institute of Science (IISc)"
+        location: "Bangalore, India"
+        area: "Electrical Engineering"
+        studyType: "M.E."
+        start_date: "Aug 2011"
+        end_date: "July 2013"
         score: "CGPA: 7.3/8"
         highlights:
           - "Gold Medalist (NR Khambhati Memorial Gold Medal awarded by the council of IISc as Best ME Student)"
           - "Thesis: Control and Start-up Diagnostics of Three Phase Inverter"
 
-      - institution: Harcourt Butler Technological Institute (HBTI)
-        location: Kanpur, India
-        area: Electrical Engineering
-        studyType: B.Tech
-        start_date: Aug 2007
-        end_date: May 2011
+      - institution: "Harcourt Butler Technological Institute (HBTI)"
+        location: "Kanpur, India"
+        area: "Electrical Engineering"
+        studyType: "B.Tech"
+        start_date: "Aug 2007"
+        end_date: "May 2011"
         score: "Percentage: 84"
         highlights:
           - "2nd Rank in Department"
 
     Experience:
-      - company: Google
-        position: Solution Architect - Gen AI
-        location: Bangalore, India
-        start_date: Sep 2024
-        end_date: Present
+      - company: "Google"
+        position: "Solution Architect - Gen AI"
+        location: "Bangalore, India"
+        start_date: "Sep 2024"
+        end_date: "Present"
         highlights:
           - "Led AI Architecture for a Global Product Launch: Directed the Generative AI strategy for a major electronics manufacturer's new smart display line. Embedded onsite to develop a real-time transcription PoC, resolving critical API bottlenecks just before launch to secure top innovation awards at ISE 2025."
           - "Closed Strategic Deal with Tier-1 IT Integrator: Architected a multi-agent AI framework (using Google ADK) to solve complex legal data extraction and policy comparison challenges, resulting directly in a signed commercial contract. <i>See related patents on the <a href='/publications/'>Publications & Patents</a> tab.</i>"
           - "Architected Enterprise-Scale AI Agents: Designed and deployed a conversational voice agent for a multinational conglomerate. Built a robust multi-agent framework utilizing enterprise connectors (ServiceNow, Microsoft Entra, Google Drive) to seamlessly orchestrate complex IT workflows and secure data retrieval."
           - "Optimized Enterprise AI Costs (TCO): Architected scalable, serverless AI infrastructures across multiple enterprise clients. Implemented smart routing between different GenAI models (e.g., Gemini Flash for volume, Pro for reasoning) to drastically reduce running costs while maintaining premium performance."
 
-      - company: Walmart
-        position: Staff Data Scientist - Voice
-        location: Bangalore, India
-        start_date: Jul 2020
-        end_date: Sep 2024
+      - company: "Walmart"
+        position: "Staff Data Scientist - Voice"
+        location: "Bangalore, India"
+        start_date: "Jul 2020"
+        end_date: "Sep 2024"
         highlights:
           - "Led initiative to fine tune LLMs for summarization tasks to help customer care agents resolve users queries faster."
           - "Led multiple projects to build few-shot entity and intent classifiers using Large Language Models. <i>Review published NLU models on the <a href='/publications/'>Publications & Patents</a> tab.</i>"
           - "Built and scaled a contextual NLU project predicting intents based on user utterance and real-time user context via a deep learning framework deployed on Java Play to serve high-volume traffic."
           - "Built a hierarchical intent prediction architecture to handle granular intents and increase end-to-end automation rates."
 
-      - company: Walmart
-        position: Senior Data Scientist - Personalization
-        location: Bangalore, India
-        start_date: Jan 2019
-        end_date: Jul 2020
+      - company: "Walmart"
+        position: "Senior Data Scientist - Personalization"
+        location: "Bangalore, India"
+        start_date: "Jan 2019"
+        end_date: "Jul 2020"
         highlights:
           - "Built a machine learning model to generate automated item pairs and bundle recommendations based on user interaction profiles."
           - "Developed a personalized modeling layout to increase Click-Through Rate (CTR) for transactional email recommendations."
           - "Developed personalized recommendation engines to maximize conversions inside promotional email workflows."
 
-      - company: Honeywell Technology Solutions
-        position: Data Scientist - Sentience Data Analytics Team
-        location: Bangalore, India
-        start_date: Oct 2016
-        end_date: Jan 2019
+      - company: "Honeywell Technology Solutions"
+        position: "Data Scientist - Sentience Data Analytics Team"
+        location: "Bangalore, India"
+        start_date: "Oct 2016"
+        end_date: "Jan 2019"
         highlights:
           - "Developed a deep learning model to automatically identify faults in utility poles using computer vision images captured by drone fleets."
           - "Developed an analytic prognostic layout to predict the health of Air Handling Units (AHUs), preventing unscheduled field maintenance and operational downtime."
           - "Developed analytical anomaly detection algorithms for monitoring manufacturing line processes of glass films."
 
-      - company: GE Global Research Center & GE Transportation
-        position: Domain Analytic Engineer - Prognostics and Analytics Team
-        location: Bangalore, India
-        start_date: Jul 2013
-        end_date: Oct 2016
+      - company: "GE Global Research Center & GE Transportation"
+        position: "Domain Analytic Engineer - Prognostics and Analytics Team"
+        location: "Bangalore, India"
+        start_date: "Jul 2013"
+        end_date: "Oct 2016"
         highlights:
           - "Developed and implemented a machine learning engine fused with physical domain knowledge to predict locomotive battery failure."
           - "Developed analytical tracking models to predict core operational faults in Auxiliary and Traction Alternators for heavy freight locomotives. <i>See associated diagnostic patent applications on the <a href='/publications/'>Publications & Patents</a> tab.</i>"
@@ -102,108 +102,102 @@ cv:
           - "Developed a physical experimental test-bed consisting of three power inverters emulating UPS units connected in an IP ring bus architecture to validate system control algorithms."
 
     Thought Leadership:
-      - institution: Google Cloud Blog & Systems Engineering
-        position: Author / Speaker
-        location: Publication Outlets
-        start_date: Jun 2025
-        end_date: Aug 2025
-        highlights:
-          - "How to build a real-time voice agent with Gemini and Google ADK (Aug 2025) - Codified architectural patterns for multi-modal streaming. <i>Read full deep-dive on my <a href='/blog/'>Blog</a> tab.</i>"
-          - "How to build a deep research agent for lead generation using Google's ADK (Aug 2025) - Architected hierarchical, parallelized multi-agent system layouts with advanced state management. <i>Read full deep-dive on my <a href='/blog/'>Blog</a> tab.</i>"
-          - "A guide to converting ADK agents with MCP to the A2A framework (Jul 2025) - Authored engineering methodologies upgrading standalone ADK agents. <i>Read full deep-dive on my <a href='/blog/'>Blog</a> tab.</i>"
-          - "How to build a simple multi-agentic system using Google's ADK (Jul 2025) - Established scaling patterns replacing brittle monolithic LLMs with high-fidelity agent networks. <i>Read full deep-dive on my <a href='/blog/'>Blog</a> tab.</i>"
-          - "Medium: An AI Travel Agent in Action (Jun 2025) - Demonstrated task orchestration and collaborative delegation boundaries across autonomous agent nodes."
+      - bullet: "How to build a real-time voice agent with Gemini and Google ADK (Aug 2025) — Codified architectural patterns for multi-modal streaming. Read full deep-dive on my Blog tab."
+      - bullet: "How to build a deep research agent for lead generation using Google's ADK (Aug 2025) — Architected hierarchical multi-agent system layouts with advanced state management. Read full deep-dive on my Blog tab."
+      - bullet: "A guide to converting ADK agents with MCP to the A2A framework (Jul 2025) — Authored engineering methodologies upgrading standalone ADK agents. Read full deep-dive on my Blog tab."
+      - bullet: "How to build a simple multi-agentic system using Google's ADK (Jul 2025) — Established scaling patterns replacing brittle monolithic LLMs with high-fidelity agent networks. Read full deep-dive on my Blog tab."
+      - bullet: "Medium: An AI Travel Agent in Action (Jun 2025) — Demonstrated task orchestration and collaborative delegation boundaries across autonomous agent nodes."
 
     Patents & Publications Hub:
-      - institution: Intellectual Property & Research Layouts
-        position: Complete Track Record
-        location: Global Portfolios
-        start_date: 2011
-        end_date: Present
-        highlights:
-          - "I have authored 10+ peer-reviewed research papers (across Interspeech, EMNLP, IEEE TPEL, and ECAI) and filed 10+ US Patents/Applications covering conversational AI models, multi-agent frameworks, and predictive diagnostics."
-          - "👉 <b>Click here to view my full interactive <a href='/publications/'>Publications & Patents Database</a></b> to review raw papers, publisher links, and Google Patent filings."
+      - bullet: "I have authored 10+ peer-reviewed research papers (across Interspeech, EMNLP, IEEE TPEL, and ECAI) and filed 10+ US Patents/Applications covering conversational AI models, multi-agent frameworks, and predictive diagnostics."
+      - bullet: "👉 <b>Click here to view my full interactive <a href='/publications/'>Publications & Patents Database</a></b> to review raw papers, publisher links, and Google Patent filings."
+
+    Certifications:
+      - bullet: "Google Cloud Certified Professional Cloud Architect"
+      - bullet: "Google Cloud Certified Professional Data Engineer"
+      - bullet: "Google Professional Machine Learning Engineer"
+      - bullet: "GE Analytics Certification & Research Award"
 
     Awards:
-      - title: Google Cloud Excellence / Spot Award
-        awarder: Google
-        date: 2025
-        summary: "Awarded for exceptional technical leadership in architecting a multi-agent AI framework that directly secured a major commercial contract with a Tier-1 Global IT Integrator. <i>Core architecture intellectual property detailed under the <a href='/publications/'>Publications & Patents</a> tab.</i>"
+      - title: "Google Cloud Excellence / Spot Award"
+        awarder: "Google"
+        date: "2025"
+        summary: "Awarded for exceptional technical leadership in architecting a multi-agent AI framework that directly secured a major commercial contract with a Tier-1 Global IT Integrator."
 
-      - title: Honorable Mention — MagNet Challenge 2023
-        awarder: Princeton University / IEEE PELS
+      - title: "Honorable Mention — MagNet Challenge 2023"
+        awarder: "Princeton University / IEEE PELS"
         date: "Feb 2024"
-        summary: "Acted as industrial advisor to the Indian Institute of Science (IISc) team for the global data-driven power magnetics modeling challenge. Co-authored the underlying machine learning framework resulting in an award-winning submission. <i>Review the open-source code and paper details via the <a href='/publications/'>Publications & Patents Page</a>.</i>"
+        summary: "Acted as industrial advisor to the Indian Institute of Science (IISc) team for the global data-driven power magnetics modeling challenge. Co-authored the underlying machine learning framework resulting in an award-winning submission."
 
-      - title: Winner — Walmart Global AI Techathon (First Prize)
-        awarder: Walmart Global Tech
+      - title: "Winner — Walmart Global AI Techathon (First Prize)"
+        awarder: "Walmart Global Tech"
         date: "Sep 2023"
         summary: "Won First Prize globally across Walmart for advanced enterprise AI applications."
 
-      - title: Winner — Walmart Global Techathon (First Prize)
-        awarder: Walmart Global Tech
+      - title: "Winner — Walmart Global Techathon (First Prize)"
+        awarder: "Walmart Global Tech"
         date: "May 2022"
         summary: "Presented a novel synthetic data generation pipeline that enabled foundational conversational shopping architectures in e-commerce."
 
-      - title: Winner — Walmart Global Techathon
-        awarder: Walmart Global Tech
+      - title: "Winner — Walmart Global Techathon"
+        awarder: "Walmart Global Tech"
         date: "May 2021"
         summary: "Developed an NLU-driven intent and contextual semantic engine enabling conversational shopping experiences tailored for the fashion retail category."
 
-      - title: Winner — Walmart Converse Hackathon
-        awarder: Walmart Global Tech
+      - title: "Winner — Walmart Converse Hackathon"
+        awarder: "Walmart Global Tech"
         date: "Jan 2021"
         summary: "Designed and deployed a machine learning routing framework optimized to dynamically dispatch incoming user customer care queries to highly specialized service agent streams."
 
-      - title: Finalist — Walmart Rebel Quest (Top 15)
-        awarder: Walmart Labs
+      - title: "Finalist — Walmart Rebel Quest (Top 15)"
+        awarder: "Walmart Labs"
         date: "Mar 2020"
         summary: "Selected among the top 15 teams across all global Walmart entities (out of 200+ competing teams) to pitch a core business-critical data initiative directly to executive leadership."
 
-      - title: Winner — Walmart IDC Hackathon (First Prize)
-        awarder: Walmart Labs
+      - title: "Winner — Walmart IDC Hackathon (First Prize)"
+        awarder: "Walmart Labs"
         date: "Aug 2019"
         summary: "Won First Prize among 50 competing technical engineering teams for architecting a prototype computer vision 'Virtual Try On' framework."
 
-      - title: GE Analytics Certification & Research Award
-        awarder: GE Global Research Center (GRC)
+      - title: "GE Analytics Certification & Research Award"
+        awarder: "GE Global Research Center (GRC)"
         date: "Aug 2015"
         summary: "Awarded for completing advanced predictive machine learning curriculums alongside successful deployment of analytics pipelines solving business-critical industrial problems."
 
-      - title: Above and Beyond Achievement Award
-        awarder: General Electric (GE Transportation)
+      - title: "Above and Beyond Achievement Award"
+        awarder: "General Electric (GE Transportation)"
         date: "Jul 2015"
         summary: "Awarded for the successful hardware development, validation, and execution of the UPS power-sharing framework loop layout."
 
-      - title: GE Innovator Award
-        awarder: General Electric
+      - title: "GE Innovator Award"
+        awarder: "General Electric"
         date: "Jun 2015"
         summary: "Conferred for successful engineering breakthroughs leading to the filing of my first US Patent tracking freight rail subsystems. <i>Review the patent on the <a href='/publications/'>Publications & Patents</a> tab.</i>"
 
-      - title: GE Champions Award
-        awarder: GE Global Research Center
+      - title: "GE Champions Award"
+        awarder: "GE Global Research Center"
         date: "May 2015"
         summary: "Recognized for high-impact research contributions in industrial electronics diagnostics frameworks."
 
-      - title: MHRD Fellowship & All India Rank 17 (GATE)
-        awarder: Ministry of Human Resource Development, Govt. of India
+      - title: "MHRD Fellowship & All India Rank 17 (GATE)"
+        awarder: "Ministry of Human Resource Development, Govt. of India"
         date: "Aug 2011"
         summary: "Awarded prestigious institutional fellowship for Master of Engineering (M.E.) studies at IISc Bangalore after securing All India Rank (AIR) 17 out of 72,680+ nationwide candidates (Top 0.02%) in the GATE examination."
 
-      - title: N R Khambhati Memorial Gold Medal
-        awarder: Council of the Indian Institute of Science (IISc)
+      - title: "N R Khambhati Memorial Gold Medal"
+        awarder: "Council of the Indian Institute of Science (IISc)"
         date: "May 2011"
         summary: "Awarded by the council of IISc to the Best Graduate (M.E.) Student in the Electrical Engineering program for absolute academic excellence across research coursework and thesis benchmarks."
 
-      - title: National ELECRAMA Project Grant
-        awarder: Indian Electrical and Electronics Manufacturers Association (IEEMA)
+      - title: "National ELECRAMA Project Grant"
+        awarder: "Indian Electrical and Electronics Manufacturers Association (IEEMA)"
         date: "Sep 2010"
         summary: "Awarded competitive national development funding to build and present a functional prototype on 'Effective Utilization of Whooshing Air (Wind Energy) Caused due to Running Trains' at the national ELECRAMA exhibition."
 
     Skills:
-      - name: AI/ML & GenAI
+      - name: "AI/ML & GenAI"
         keywords: "Large Language Models (LLMs), Agentic Frameworks (Google ADK), Vertex AI, Cloud Speech-to-Text (Chirp), Retrieval-Augmented Generation (RAG), Multimodal In-Context Learning, NLP, Deep Learning"
-      - name: Cloud & Infrastructure
+      - name: "Cloud & Infrastructure"
         keywords: "Google Cloud Platform (GCP), Cloud Run, Cloud Firestore, Google Cloud Storage, Secret Manager, Serverless Architecture, Microservices"
-      - name: Languages & Frameworks
+      - name: "Languages & Frameworks"
         keywords: "Python, Flask, Streamlit, FastAPI, Docker, Terraform"
