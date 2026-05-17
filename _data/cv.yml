@@ -146,17 +146,21 @@ cv:
           - "Developed a prescriptive health and maintenance model for Traction Motor prognostics workflows."
           - "Developed a physical experimental test-bed consisting of three power inverters emulating UPS units connected in an IP ring bus architecture to validate system control algorithms."
 
-    Thought Leadership:
-      - title: "Technical Blogs & Guides"
-        awarder: "Google Cloud Blog & Systems Engineering"
-        date: "2025"
-        summary: "Detailed engineering write-ups covering multi-agent systems, state management, and real-time voice streaming pipelines. 👉 <b>Read the full articles on my <a href='/blog/'>Blog</a> tab.</b>"
-
     Publications:
       - title: "Research Papers & Patents"
         awarder: "IEEE TASLP / Interspeech / EMNLP"
         date: "2011 – Present"
         summary: "Over 10 peer-reviewed research papers and 10 filed US patents covering conversational AI frameworks and predictive diagnostics. 👉 <b>See the full list on my <a href='/publications/'>Publications & Patents</a> tab.</b>"
+
+    Projects:
+      - name: "Thought Leadership"
+        summary: "Detailed engineering write-ups covering multi-agent frameworks, state management, and real-time voice streaming pipelines. 👉 <b>Read the full articles on my <a href='/blog/'>Blog</a> tab.</b>"
+        highlights:
+          - "How to build a real-time voice agent with Gemini and Google ADK (Aug 2025)"
+          - "How to build a deep research agent for lead generation using Google's ADK (Aug 2025)"
+          - "A guide to converting ADK agents with MCP to the A2A framework (Jul 2025)"
+          - "How to build a simple multi-agentic system using Google's ADK (Jul 2025)"
+          - "Medium: An AI Travel Agent in Action (Jun 2025)"
 
     Awards:
       - title: "Google Cloud Excellence / Spot Award"
@@ -235,29 +239,17 @@ cv:
         summary: "Awarded competitive national development funding to build and present a functional prototype on 'Effective Utilization of Whooshing Air (Wind Energy) Caused due to Running Trains' at the national ELECRAMA exhibition."
 
     Certificates:
-      - name: "Google Cloud Credentials"
-        issuer: "Google Cloud"
-        date: "2025"
-        icon: "fa-solid fa-location-dot"
-        summary: "👉 <b>View my certificates on the <a href='/certifications/'>Certifications</a> tab.</b>"
-
-      - name: "Google Cloud Certified Professional Data Engineer"
-        issuer: "Google Cloud"
-        date: "2025"
-        icon: "fa-solid fa-tag"
-        summary: "👉 <b>View my certificates on the <a href='/certifications/'>Certifications</a> tab.</b>"
-
-      - name: "Google Professional Machine Learning Engineer"
-        issuer: "Google Cloud"
-        date: "2025"
-        icon: "fa-solid fa-envelope"
-        summary: "👉 <b>View my certificates on the <a href='/certifications/'>Certifications</a> tab.</b>"
-
-      - name: "GE Analytics Certification"
-        issuer: "General Electric"
-        date: "2015"
-        icon: "fa-solid fa-hashtag"
-        summary: "👉 <b>View my certificates on the <a href='/certifications/'>Certifications</a> tab.</b>"
+      - name: "Professional Credentials"
+        issuer: "👉 For the detailed list, go to the <a href='/certifications/'>Certifications</a> tab."
+        date: "May 2025"
+        icon: "fa-solid fa-graduation-cap"
+        summary: ""
+        highlights:
+          - "Professional Machine Learning Engineer — Google (Issued May 2025 · Expires May 2027)"
+          - "GE Certified Analytic Engineer — GE Research (Issued Aug 2015)"
+          - "ACE (Advanced Course in Engineering) - A & B Course — GE Transportation, a Wabtec company (Issued Sep 2015)"
+          - "SAS Certified Base Programmer for SAS 9 — SAS (Issued Dec 2015)"
+          - "Yoga Certification (200 Hours) — Yoga Alliance (Issued Dec 2021)"
 
     Skills:
       - name: "AI/ML & GenAI"
