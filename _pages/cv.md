@@ -5,6 +5,8 @@ title: cv
 description: Curriculum Vitae detailing professional timeline, academic milestones, and engineering skills.
 nav: true
 nav_order: 3
+toc:
+  sidebar: left
 ---
 
 <div class="post">
@@ -15,18 +17,19 @@ nav_order: 3
     </a>
   </div>
 
-  <div class="cv">
+  <div class="cv mb-5">
     {% for entry in site.data.cv.sections %}
-      <a class="anchor" id="{{ entry[0] }}"></a>
+      <a class="anchor" id="{{ entry[0] | slugify }}"></a>
+      
       <div class="card mt-3 p-3">
-        <h3 class="card-title font-weight-bold text-uppercase">{{ entry[0] }}</h3>
+        <h3 class="card-title font-weight-bold text-uppercase" id="{{ entry[0] | slugify }}">{{ entry[0] }}</h3>
         <hr class="mt-0">
         
         {% if entry[0] == "Skills" %}
           <div class="row">
           {% for skill in entry[1] %}
             <div class="col-md-6 mb-3">
-              <h5 class="font-weight-bold m-0">{{ skill.name }}</h5>
+              <h5 class="font-weight-bold m-0 text-primary">{{ skill.name }}</h5>
               <p class="text-muted m-0" style="font-size: 0.95rem;">{{ skill.keywords }}</p>
             </div>
           {% endfor %}

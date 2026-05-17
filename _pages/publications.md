@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: Research publications and patents.
+title: publications & patents
+description: Peer-reviewed research papers and global patent filings.
 nav: true
 nav_order: 2
 ---

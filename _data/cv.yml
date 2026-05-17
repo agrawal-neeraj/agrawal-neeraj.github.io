@@ -65,7 +65,7 @@ cv:
         end_date: Sep 2024
         highlights:
           - "Led initiative to fine tune LLMs for summarization tasks to help customer care agents resolve users queries faster."
-          - "Led multiple projects to build few-shot entity and intent classifiers using Large Language Models. <i>Review published NLU models on the <a href='/publications/'>Publications</a> tab.</i>"
+          - "Led multiple projects to build few-shot entity and intent classifiers using Large Language Models. <i>Review published NLU models on the <a href='/publications/'>Publications & Patents</a> tab.</i>"
           - "Built and scaled a contextual NLU project predicting intents based on user utterance and real-time user context via a deep learning framework deployed on Java Play to serve high-volume traffic."
           - "Built a hierarchical intent prediction architecture to handle granular intents and increase end-to-end automation rates."
 
@@ -101,10 +101,9 @@ cv:
           - "Developed a prescriptive health and maintenance model for Traction Motor prognostics workflows."
           - "Developed a physical experimental test-bed consisting of three power inverters emulating UPS units connected in an IP ring bus architecture to validate system control algorithms."
 
-    "Thought Leadership":
-      - institution: Google Cloud Blog & Systems Engineering
-        area: "Author: Voice & Multi-Agent Architecture Systems"
-        studyType: "Technical Deep-Dives"
+      - company: Google Cloud Blog & Systems Engineering
+        position: Thought Leadership & Technical Writing
+        location: Publication Outlets
         start_date: Jun 2025
         end_date: Aug 2025
         highlights:
@@ -114,31 +113,90 @@ cv:
           - "How to build a simple multi-agentic system using Google's ADK (Jul 2025) - Established scaling patterns replacing brittle monolithic LLMs with high-fidelity agent networks. <i>Read full deep-dive on my <a href='/blog/'>Blog</a> tab.</i>"
           - "Medium: An AI Travel Agent in Action (Jun 2025) - Demonstrated task orchestration and collaborative delegation boundaries across autonomous agent nodes."
 
-    "Patents & Publications":
-      - institution: Intellectual Property & Research Layouts
-        position: Peer-Reviewed Publications & US Patents
-        location: Full Portfolio
+      - company: Intellectual Property & Research Layouts
+        position: Patents & Publications Hub
+        location: Global Portfolios
         start_date: 2011
         end_date: Present
-        summary: "I have authored 10+ peer-reviewed research papers (across Interspeech, EMNLP, IEEE TPEL, and ECAI) and filed 10+ US Patents/Applications covering conversational AI models, multi-agent frameworks, and predictive diagnostics."
         highlights:
-          - "👉 <b>Click here to view my full interactive <a href='/publications/'>Publications & Patents Database</a></b> to review raw papers, publisher links, and Patent filings."
+          - "I have authored 10+ peer-reviewed research papers (across Interspeech, EMNLP, IEEE TPEL, and ECAI) and filed 10+ US Patents/Applications covering conversational AI models, multi-agent frameworks, and predictive diagnostics."
+          - "👉 <b>Click here to view my full interactive <a href='/publications/'>Publications & Patents Database</a></b> to review raw papers, publisher links, and Google Patent filings."
 
-    "Honors & Awards":
+    Awards:
       - title: Google Cloud Excellence / Spot Award
         awarder: Google
         date: 2025
         summary: "Awarded for exceptional technical leadership in architecting a multi-agent AI framework that directly secured a major commercial contract with a Tier-1 Global IT Integrator. <i>Core architecture intellectual property detailed under the <a href='/publications/'>Publications & Patents</a> tab.</i>"
 
-      - title: Winner - Walmart Global Techathon
+      - title: Honorable Mention — MagNet Challenge 2023
+        awarder: Princeton University / IEEE PELS
+        date: "Feb 2024"
+        summary: "Acted as industrial advisor to the Indian Institute of Science (IISc) team for the global data-driven power magnetics modeling challenge. Co-authored the underlying machine learning framework resulting in an award-winning submission. <i>Review the open-source code and paper details via the <a href='/publications/'>Publications & Patents Page</a>.</i>"
+
+      - title: Winner — Walmart Global AI Techathon (First Prize)
         awarder: Walmart Global Tech
-        date: "2019, 2021, 2022, 2023"
-        summary: "Won multiple global technical hackathons across enterprise NLP and automation tracks."
+        date: "Sep 2023"
+        summary: "Won First Prize globally across Walmart for advanced enterprise AI applications."
+
+      - title: Winner — Walmart Global Techathon (First Prize)
+        awarder: Walmart Global Tech
+        date: "May 2022"
+        summary: "Presented a novel synthetic data generation pipeline that enabled foundational conversational shopping architectures in e-commerce."
+
+      - title: Winner — Walmart Global Techathon
+        awarder: Walmart Global Tech
+        date: "May 2021"
+        summary: "Developed an NLU-driven intent and contextual semantic engine enabling conversational shopping experiences tailored for the fashion retail category."
+
+      - title: Winner — Walmart Converse Hackathon
+        awarder: Walmart Global Tech
+        date: "Jan 2021"
+        summary: "Designed and deployed a machine learning routing framework optimized to dynamically dispatch incoming user customer care queries to highly specialized service agent streams."
+
+      - title: Finalist — Walmart Rebel Quest (Top 15)
+        awarder: Walmart Labs
+        date: "Mar 2020"
+        summary: "Selected among the top 15 teams across all global Walmart entities (out of 200+ competing teams) to pitch a core business-critical data initiative directly to executive leadership."
+
+      - title: Winner — Walmart IDC Hackathon (First Prize)
+        awarder: Walmart Labs
+        date: "Aug 2019"
+        summary: "Won First Prize among 50 competing technical engineering teams for architecting a prototype computer vision 'Virtual Try On' framework."
+
+      - title: GE Analytics Certification & Research Award
+        awarder: GE Global Research Center (GRC)
+        date: "Aug 2015"
+        summary: "Awarded for completing advanced predictive machine learning curriculums alongside successful deployment of analytics pipelines solving business-critical industrial problems."
 
       - title: Above and Beyond Achievement Award
+        awarder: General Electric (GE Transportation)
+        date: "Jul 2015"
+        summary: "Awarded for the successful hardware development, validation, and execution of the UPS power-sharing framework loop layout."
+
+      - title: GE Innovator Award
+        awarder: General Electric
+        date: "Jun 2015"
+        summary: "Conferred for successful engineering breakthroughs leading to the filing of my first US Patent tracking freight rail subsystems. <i>Review the patent on the <a href='/publications/'>Publications & Patents</a> tab.</i>"
+
+      - title: GE Champions Award
         awarder: GE Global Research Center
-        date: 2014
-        summary: "Awarded for the successful development and execution of the hardware UPS power sharing framework project."
+        date: "May 2015"
+        summary: "Recognized for high-impact research contributions in industrial electronics diagnostics frameworks."
+
+      - title: MHRD Fellowship & All India Rank 17 (GATE)
+        awarder: Ministry of Human Resource Development, Govt. of India
+        date: "Aug 2011"
+        summary: "Awarded prestigious institutional fellowship for Master of Engineering (M.E.) studies at IISc Bangalore after securing All India Rank (AIR) 17 out of 72,680+ nationwide candidates (Top 0.02%) in the GATE examination."
+
+      - title: N R Khambhati Memorial Gold Medal
+        awarder: Council of the Indian Institute of Science (IISc)
+        date: "May 2011"
+        summary: "Awarded by the council of IISc to the Best Graduate (M.E.) Student in the Electrical Engineering program for absolute academic excellence across research coursework and thesis benchmarks."
+
+      - title: National ELECRAMA Project Grant
+        awarder: Indian Electrical and Electronics Manufacturers Association (IEEMA)
+        date: "Sep 2010"
+        summary: "Awarded competitive national development funding to build and present a functional prototype on 'Effective Utilization of Whooshing Air (Wind Energy) Caused due to Running Trains' at the national ELECRAMA exhibition."
 
     Skills:
       - name: AI/ML & GenAI
