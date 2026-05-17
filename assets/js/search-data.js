@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Curriculum Vitae detailing professional timeline, academic milestones, and engineering skills.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
